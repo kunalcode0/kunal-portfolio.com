@@ -6,4 +6,5 @@
 <h1>Special funcionality</h1>
 <h3> Through this website you can send me a direct message and also download my CV. </h3>
     <h1> PREVIEW</h1>
-![Screenshot (7)](https://user-images.githubusercontent.com/103275929/213913141-95be3c1f-47bf-4124-bfec-e9d2f1405805.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/103275929/213913186-46b32424-2520-4a3f-b62e-02b38d3d6c75.png)
